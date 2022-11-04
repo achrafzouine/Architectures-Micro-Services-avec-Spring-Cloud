@@ -52,9 +52,26 @@
 
 
 
+## Deuxième Partie : 
+
+### H2 Console Bill :
+![h2 console bill](https://user-images.githubusercontent.com/86847138/200087300-68a674d4-4308-4775-8363-2fb78ac3cded.PNG)
 
 
 
+
+### H2 Console Product Item : 
+![h2 console product item](https://user-images.githubusercontent.com/86847138/200087326-069e0b07-5d23-473f-9fb3-4c4810432c91.PNG)
+
+
+
+### Billing Service toutes les données :
+![billing-service all data](https://user-images.githubusercontent.com/86847138/200087372-36bbc5a6-3876-47dd-827a-5068c19c7640.PNG)
+
+
+
+### Billing Service selon la donnée dont on a besoin (name dans le screenshot) : 
+![billing-service selo le besoin (name)](https://user-images.githubusercontent.com/86847138/200087460-274e02b2-2c3a-4e82-8319-53d9494e7404.PNG)
 
 
 
